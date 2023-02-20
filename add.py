@@ -1,4 +1,7 @@
+
 i=100;
 r=200;
 
-print(i*r)
+x=30;
+print(i*r);
+print(r+x);
